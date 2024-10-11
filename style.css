@@ -9,6 +9,7 @@
 
 body{
     background-color: var(--fundo);
+    margin: 0;
 }
 
 footer{
@@ -18,4 +19,5 @@ footer{
     color: var(--branco);
     width: 100%;
     text-align: center;
+    
 }
