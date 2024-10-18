@@ -84,38 +84,38 @@ criaCartao(
 
 criaCartao(
     'historia',
-    'pergunta',
-    'resposta'
+    'Qual foi outro país envolvido na guerra do Brasil e do Paraguai?',
+    'Uruguai'
 )
 
 criaCartao(
     'historia',
-    'pergunta',
-    'resposta'
+    'Quem foi Getúlio Vargas?',
+    'Foi um presidente do Brasil que governou de 1930 a 1945 e de 1951 a 1954, conhecido por reformas trabalhistas e políticas importantes.'
 )
 
 criaCartao(
-    'materia',
-    'pergunta',
-    'resposta'
+    'biologia',
+    'O que é uma célula?',
+    'É a menor unidade funcional dos seres vivos, responsável por realizar as atividades vitais. Pode ser procarionte ou eucarionte.'
 )
 
 criaCartao(
-    'materia',
-    'pergunta',
-    'resposta'
+    'biologia',
+    'Qual é a função dos cloroplastos?',
+    'São organelas responsáveis pela fotossíntese, processo em que a luz solar é convertida em energia química.'
 )
 
 criaCartao(
-    'materia',
-    'pergunta',
-    'resposta'
+    'biologia',
+    'Qual é o material genético presente nas células?',
+    'É o DNA, que contém as informações necessárias para o desenvolvimento e funcionamento dos organismos.'
 )
 
 criaCartao(
-    'materia',
-    'pergunta',
-    'resposta'
+    'biologia',
+    'O que é uma cadeia alimentar?',
+    'É uma sequência de organismos onde um serve de alimento para o outro, mostrando o fluxo de energia entre os seres vivos.'
 )
 
 //ao todo sao 20 perguntas de memorização do ensino médio
