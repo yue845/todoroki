@@ -23,25 +23,25 @@ criaCartao(
 )
 
 criaCartao(
-    'portugues',
+    'português',
     'Qual a forma de linguagem em que só são usadas imagens?',
     'Não verbal'
 )
 
 criaCartao(
-    'portugues',
+    'português',
     'Qual o tipo de texto usado na redação do ENEM?',
     'Texto dissertativo-argumentativo'
 )
 
 criaCartao(
-    'portugues',
+    'português',
     'o que é uma charge?',
     'É um gênero textual jornalístico marcado pelo humor e pela ironia. Utiliza caricaturas para fazer crítica social, política, esportiva etc.'
 )
 
 criaCartao(
-    'portugues',
+    'português',
     'Qual a diferença entre charge e tirinha?',
     'É a quantidade de quadros. A charge apresenta apenas um, bastante impactante, já a tirinha traz dois ou mais quadros e uma história a ser acompanhada.'
 )
@@ -71,25 +71,25 @@ criaCartao(
 )
 
 criaCartao(
-    'historia',
+    'história',
     'Em que período aconteceu a Ditadura Militar no Brasil?',
     'De 1964 até 1985'
 )
 
 criaCartao(
-    'historia',
+    'história',
     'Qual foi o primeiro preidente do Brasil?',
     'Deodoro da Fonseca'
 )
 
 criaCartao(
-    'historia',
+    'história',
     'Qual foi outro país envolvido na guerra do Brasil e do Paraguai?',
     'Uruguai'
 )
 
 criaCartao(
-    'historia',
+    'história',
     'Quem foi Getúlio Vargas?',
     'Foi um presidente do Brasil que governou de 1930 a 1945 e de 1951 a 1954, conhecido por reformas trabalhistas e políticas importantes.'
 )
