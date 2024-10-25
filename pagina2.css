@@ -43,5 +43,5 @@ footer{
     background-color: var(--frente-cartao);
     border: 1px solid var(--destaque);
     padding: 40px;
-    box-shadow: 2px 2px 2px var(--preto);
+    box-shadow: 5px 6px 25px var(--preto);
 }
