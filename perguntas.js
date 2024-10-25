@@ -78,7 +78,7 @@ criaCartao(
 
 criaCartao(
     'história',
-    'Qual foi o primeiro preidente do Brasil?',
+    'Qual foi o primeiro presidente do Brasil?',
     'Deodoro da Fonseca'
 )
 
