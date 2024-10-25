@@ -36,7 +36,7 @@ criaCartao(
 
 criaCartao(
     'português',
-    'o que é uma charge?',
+    'O que é uma charge?',
     'É um gênero textual jornalístico marcado pelo humor e pela ironia. Utiliza caricaturas para fazer crítica social, política, esportiva etc.'
 )
 
