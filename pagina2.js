@@ -21,7 +21,7 @@ function mostrarResposta(){
     if(resposta.style.display === 'none'){
         resposta.style.display === 'block'
     }
-    else(){
+    else{
         resposta.style.display === 'none'
     }
 }
