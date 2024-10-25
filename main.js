@@ -20,7 +20,7 @@ function criaCartao (categoria, pergunta, resposta){
         cartao.classList.toggle('active', respotaEstaVisivel);
     }   
 
-    cartao.addEventListener('click', viraCartao)
+    cartao.addEventListener('click', viraCartao);
 
     container.appendChild(cartao)
 }
